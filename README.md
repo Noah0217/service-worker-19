@@ -8,6 +8,7 @@
 - Git Bash Terminal
 - Heroku
 - MongoDB Atlas
+- HTML
 - JavaScript
 - Node.Js
 
