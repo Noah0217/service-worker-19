@@ -1,6 +1,6 @@
 # Budget Tracker
 
-<h2>Description<br><h4>A budget Tracker app thats allows the user to create transactions based on there input that calculates a budget.
+<h2>Description<br><h4>A budget tracker app thats allows the user to create transactions based on there input that calculates a budget.
   
 <h3 align="left">Languages and Tools</h3>
 
