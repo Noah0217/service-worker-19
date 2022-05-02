@@ -9,6 +9,7 @@
 - Heroku
 - MongoDB Atlas
 - HTML
+- CSS
 - JavaScript
 - Node.Js
 
