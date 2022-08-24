@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Budget Tracker
 
 <h2>Description<br><h4>A budget tracker app thats allows the user to create transactions based on there input that calculates a budget.
